@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .scrollnav{
+    height: 0px;
+}
+.scrollnav.active {
+    background: #222;
+    transition: height 2s ease-in-out;
+    height: fit-content;
+  } */
+  
+ 
